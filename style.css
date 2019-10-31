@@ -1,0 +1,29 @@
+
+body {
+    font-family: 'Rubik', sans-serif;
+    max-width: 800px;
+    margin: 0 50px;
+}
+	
+a {
+    text-decoration: none !important;
+    color: #1abc9c;
+}
+
+
+b {
+    font-weight: 600;
+    color: #333333;
+}
+
+p {
+    font-size: 14px;
+}
+
+hr {
+    margin-top: 50px;
+}
+
+ul {
+    font-size: 14px;
+}
